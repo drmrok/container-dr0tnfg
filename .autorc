@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "drmrok",
+  "repo": "container-dr0tnfg",
+  "name": "drmrok",
+  "email": "80199739+drmrok@users.noreply.github.com",
+}
